@@ -1,0 +1,6 @@
+if SHIELD_FSCORIAN
+
+config ZMK_KEYBOARD_NAME
+    default "FS Keyboard"
+
+endif
